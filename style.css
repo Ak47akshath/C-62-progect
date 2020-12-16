@@ -1,0 +1,26 @@
+.container{
+    text-align: center;
+    }
+
+
+#chatbot{
+    width: 100%;
+    height: 800px;
+    background-color:cyan;
+}
+
+#mycarousel{
+    background-color: darkblue;
+}
+#carousel1{
+    background-color: aqua;
+}
+#carousel1 img{
+    height: 300px;
+    margin-top: 40px;
+}
+.carousel-inner p{
+    color: currentColor;
+    font-size: 25px;
+    font-family: fantasy;
+}
